@@ -1,7 +1,7 @@
 # etl-project
 This is the ETL project for Ainash, Alyssa, and Andy.
 
-##These instructions show how to reproduce **the Scotch database** in your own system for **ETL Project in Data Analytics and Visualization bootcamp**.
+## These instructions show how to reproduce **the Scotch database** in your own system for **ETL Project in Data Analytics and Visualization bootcamp**.
 
 Please clone this repository to your machine and then do the following:
 1. Navigate to the **etl-project** directory of the repo and launch a GitBash(Windows) or Terminal(Mac).
