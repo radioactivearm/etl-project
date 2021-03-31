@@ -19,10 +19,10 @@ Please clone this repository to your machine and then do the following:
     * Run code to create tables from downloaded file.
 1. Open the Visual Studio Code and do the following:
     * Open your cloned repo.
-    * Create **config.py** document in your cloned repo. 
-    * In **congif.py** document set `<user = <type your user name>`, `password = <type your password>`, `port = 5432`, `host = “localhost”`.
+    * Create **config.py** document in your cloned repo at same level as ETL.ipynb. 
+    * In **congif.py** document set `user = <type your user name>`, `password = <type your password>`, `port = 5432`, `host = “localhost”`.
     * Save the changes and close the Visual Studio Code.
-1. Go back to Jupyter notebook and run cells 31 to 39 to connect database.
+1. Go back to Jupyter notebook and run cells 31 to end to connect database.
 1. To test the database, you can do the following:
 	* Launch PgAdmin.
 	* Open Query Tool in **scotch_db** database.
